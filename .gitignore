@@ -1,0 +1,6 @@
+*.o
+*.hi
+Lexer.hs
+Parser.hs
+LexerTest
+ParserTest
